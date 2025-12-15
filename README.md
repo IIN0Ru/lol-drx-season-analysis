@@ -46,5 +46,5 @@
 - `data/reference/Champion_Final.csv`  
   챔피언의 공식 분류와 포지션 기반 분석 역할을 정의한 기준 테이블
 
-- `data/reference/drx_2022_2025_0829_split.csv`
-   2022.01.12~2025.08.29 DRX경기 데이터를 크롤링한 테이블
+- `data/reference/drx_2022_2025_0829_split.csv`  
+  2022.01.12~2025.08.29 DRX경기 데이터를 크롤링한 테이블
