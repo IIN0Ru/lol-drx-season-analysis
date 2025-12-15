@@ -41,3 +41,7 @@
 - 선수 개인 기량 요인 미포함
 - 인게임 내용 미반영
 - 향후 리플레이 데이터 또는 팀 간 비교 확장 가능
+
+## Data Reference
+- `data/reference/Champion_Final.csv`  
+  챔피언의 공식 분류와 포지션 기반 분석 역할을 정의한 기준 테이블
