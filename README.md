@@ -48,3 +48,6 @@
 
 - `data/reference/drx_2022_2025_0829_split.csv`  
   2022.01.12~2025.08.29 DRX경기 데이터를 크롤링한 테이블
+
+- `data/reference/Champion_initiate.csv`
+  각 챔피언의 initiate 능력을 개시의 확실성을 기준으로 3단계로 구분하여 정의한 테이블
