@@ -51,3 +51,7 @@
 
 - `data/reference/Champion_initiate.csv`  
   각 챔피언의 initiate 능력을 개시의 확실성을 기준으로 3단계로 구분하여 정의한 테이블
+
+## Data Processed
+- `data/processed/initiate_bucket_peak_vs_postpeak.ipynb`  
+  initiate 수치를 기반으로 상승기/하락기 간 initiate수치 및 수치 별 승률 분석 데이터
