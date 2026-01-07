@@ -55,3 +55,5 @@
 ## Data Processed
 - `data/processed/initiate_bucket_peak_vs_postpeak.ipynb`  
   initiate 수치를 기반으로 상승기/하락기 간 initiate수치 및 수치 별 승률 분석 데이터
+- `loster_Change_Event.ipynb`  
+  loster 누적 이탈수와 승률 간 분석 데이터
